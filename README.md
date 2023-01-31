@@ -1,5 +1,5 @@
 #  Result Management System (RMS)
-Rms is a simple web application built under the laravel framework and vuejs. It is used to register students, their courses and process their result and calculate the cgpa
+RMS is a simple web application built under the laravel framework and vuejs. It is used to register students, their courses and process their result and calculate the cgpa
 
 # Requirements
 PHP 7+ and Composer are required.
