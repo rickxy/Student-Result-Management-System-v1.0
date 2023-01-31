@@ -40,7 +40,7 @@ If you discover a security vulnerability within RMS
 # License
 RMS is open-sourced software licensed under the MIT license.
 
-# Update....
+# Update..
 Refactoring and improving this soon
 
 
